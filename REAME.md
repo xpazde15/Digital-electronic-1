@@ -1,3 +1,35 @@
 #Digital-electronics-1
-aa
-bb
+
+A 	NOT
+0 	1
+1 	0
+
+A 	B 	AND 	NAND
+0 	0 	0 	1
+0 	1 	0	  1
+1 	0 	0	  1
+1 	1 	1	  0
+
+A 	B 	OR 	NOR
+0 	0 	0 	1
+0 	1 	1	  0
+1 	0 	1   0	
+1 	1 	1   0	
+
+A 	B 	XOR 	XNOR
+0 	0 	0 	1
+0 	1 	1   0	
+1 	0 	1   0	
+1 	1 	0   1
+
+
+
+A 	B 	C 	f 	fOR 	fAND
+0 	0 	0 			
+0 	0 	1 			
+0 	1 	0 			
+0 	1 	1 			
+1 	0 	0 			
+1 	0 	1 			
+1 	1 	0 			
+1 	1 	1 			
